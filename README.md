@@ -22,13 +22,13 @@
 <br>
 <p align="center">
 <picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/HTML.png"/></picture>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/css.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/JavaScript.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/react.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/tailwind.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/Bootsrap.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/node.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/express.png"/>
+<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/css.png"/></picture>&nbsp;
+<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/JavaScript.png"/></picture>&nbsp;
+<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/react.png"/></picture>&nbsp;
+<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/tailwind.png"/></picture>&nbsp;
+<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/Bootsrap.png"/></picture>&nbsp;
+<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/node.png"/></picture>&nbsp;
+<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/express.png"/>
 </picture><br/>
 
 ## :chart_with_upwards_trend: Current Stats
