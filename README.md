@@ -20,15 +20,15 @@
 ## :computer: Technologies that I know
 
 <br>
-<p height="80%" align="center">
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/HTML.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/css.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/JavaScript.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/react.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/tailwind.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/Bootsrap.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/node.png"/>&nbsp;
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/express.png"/>
+<p align="center">
+<img height="80%" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/HTML.png"/>&nbsp;
+<img height="80%" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/css.png"/>&nbsp;
+<img height="80%" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/JavaScript.png"/>&nbsp;
+<img height="80%" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/react.png"/>&nbsp;
+<img height="80%" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/tailwind.png"/>&nbsp;
+<img height="80%" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/Bootsrap.png"/>&nbsp;
+<img height="80%" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/node.png"/>&nbsp;
+<img height="80%" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/express.png"/>
 </p><br/>
 
 ## :chart_with_upwards_trend: Current Stats
