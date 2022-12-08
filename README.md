@@ -21,7 +21,7 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/HTML.png"/>&nbsp;
+<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/HTML.png"/></picture>&nbsp;
 <img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/css.png"/>&nbsp;
 <img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/JavaScript.png"/>&nbsp;
 <img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/react.png"/>&nbsp;
@@ -29,7 +29,7 @@
 <img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/Bootsrap.png"/>&nbsp;
 <img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/node.png"/>&nbsp;
 <img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/express.png"/>
-</p><br/>
+</picture><br/>
 
 ## :chart_with_upwards_trend: Current Stats
 
