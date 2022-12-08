@@ -20,14 +20,14 @@
 ## :computer: Technologies that I know
 
 <br>
-<p align="center">
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/css.png"/>
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/react.png"/>
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/node.png"/>
+<p height="80%" align="center">
+<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/HTML.png"/>&nbsp;
+<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/css.png"/>&nbsp;
+<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/JavaScript.png"/>&nbsp;
+<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/react.png"/>&nbsp;
+<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/tailwind.png"/>&nbsp;
+<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/Bootsrap.png"/>&nbsp;
+<img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/node.png"/>&nbsp;
 <img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/express.png"/>
 </p><br/>
 
