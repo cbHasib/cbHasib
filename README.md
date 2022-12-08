@@ -21,14 +21,14 @@
 
 <br>
 <p align="center">
-<picture><img title="HTML5" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/HTML.png"/></picture>&nbsp;
-<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/css.png"/></picture>&nbsp;
-<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/JavaScript.png"/></picture>&nbsp;
-<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/react.png"/></picture>&nbsp;
-<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/tailwind.png"/></picture>&nbsp;
-<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/Bootsrap.png"/></picture>&nbsp;
-<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/node.png"/></picture>&nbsp;
-<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/express.png"/>
+<picture><img title="HTML" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/HTML.png"/></picture>&nbsp;
+<picture><img title="CSS" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/css.png"/></picture>&nbsp;
+<picture><img title="JavaScript" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/JavaScript.png"/></picture>&nbsp;
+<picture><img title="ReactJS" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/react.png"/></picture>&nbsp;
+<picture><img title="TailwindCss" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/tailwind.png"/></picture>&nbsp;
+<picture><img title="Bootstrap" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/Bootsrap.png"/></picture>&nbsp;
+<picture><img title="NodeJS" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/node.png"/></picture>&nbsp;
+<picture><img title="ExpressJS" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/express.png"/>
 </picture><br/>
 
 ## :chart_with_upwards_trend: Current Stats
