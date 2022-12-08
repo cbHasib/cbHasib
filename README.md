@@ -21,7 +21,7 @@
 
 <br>
 <p align="center">
-<picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/HTML.png"/></picture>&nbsp;
+<picture><img title="HTML5" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/HTML.png"/></picture>&nbsp;
 <picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/css.png"/></picture>&nbsp;
 <picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/JavaScript.png"/></picture>&nbsp;
 <picture><img src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/react.png"/></picture>&nbsp;
