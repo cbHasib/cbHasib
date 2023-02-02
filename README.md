@@ -7,7 +7,7 @@
 
 ## :eyes: Current overview
 
-#### 🌱 I’m exploring - Typescript, NextJs, Redux.
+#### 🌱 I’m exploring - Typescript, Angular, Redux.
 
 #### 👯 I’m looking - To collaborate on open source projects.
 
