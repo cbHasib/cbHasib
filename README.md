@@ -13,7 +13,8 @@
 
 #### 🤔 I’m trying - To help people learn web development.
 
-#### 🗯️ Ask me about Javascript, React, Node, Express, MongoDB. -->
+#### 🗯️ Ask me about Javascript, React, Node, Express, MongoDB. 
+-->
 
 <br />
 
