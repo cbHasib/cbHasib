@@ -19,8 +19,10 @@
 <picture><img title="TailwindCss" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/tailwind.png"/></picture>&nbsp;
 <picture><img title="Bootstrap" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/Bootsrap.png"/></picture>&nbsp;
 <picture><img title="NodeJS" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/node.png"/></picture>&nbsp;
-<picture><img title="ExpressJS" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/express.png"/>
-</picture><br/>
+<picture><img title="ExpressJS" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/express.png"/></picture>&nbsp;
+<picture><img title="AngularJS" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/AngularJS-Shield.svg"/></picture>
+  
+  <br/>
 
 ## :chart_with_upwards_trend: Current Stats
 
