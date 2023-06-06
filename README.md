@@ -4,17 +4,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/cbHasib/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.facebook.com/cbHasib"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;&nbsp;<a href="https://twitter.com/cbHasib"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:hasibul.hasan2905@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p><br/>
-<!-- 
-## :eyes: Current overview
 
-#### 🌱 I’m exploring - Typescript, Angular, Redux.
-
-#### 👯 I’m looking - To collaborate on open source projects.
-
-#### 🤔 I’m trying - To help people learn web development.
-
-#### 🗯️ Ask me about Javascript, React, Node, Express, MongoDB. 
--->
 
 <br />
 
