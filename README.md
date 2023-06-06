@@ -20,7 +20,7 @@
 <picture><img title="Bootstrap" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/Bootsrap.png"/></picture>&nbsp;
 <picture><img title="NodeJS" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/node.png"/></picture>&nbsp;
 <picture><img title="ExpressJS" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/express.png"/></picture>&nbsp;
-<picture><img title="AngularJS" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/AngularJS-Shield.svg"/></picture>
+<picture><img title="AngularJS" src="https://github.com/cbhasib/cbhasib/blob/main/images/icons/angular.png"/></picture>
   
   <br/>
 
