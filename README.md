@@ -113,40 +113,45 @@ I'm a **Senior Full Stack Developer based in Bangladesh**. I like owning problem
 ### 01 · Salaf EMS
 **My most significant engineering work to date.**
 
-A multi-tenant **eCommerce Management System** that I have taken from planning and system design through implementation and execution while managing the engineering team.
-
-The platform is built around three major pieces: an **EMS/admin application**, a **NestJS backend**, and a **single shared storefront service that serves all stores/tenants**. The storefront is a tenant-aware Next.js application rather than a separate deployment per merchant, with a code-first component registry for reusable sections and themes. Merchants can customize storefront presentation through registered components, design tokens, fonts, sections, and theme configuration.
-
-The backend includes **multi-tenant authentication and store switching, JWT/RBAC, subscription plans and quotas, PostgreSQL via Prisma, Redis, BullMQ async processing, and Bangladesh-wide shipping geography**. The storefront itself uses **Next.js 16, React 19, TypeScript, Tailwind CSS, Zod, and server-oriented rendering patterns**.
-
-**My role:** Product planning · System architecture · Technical decisions · Development · Code review · Team execution · Deployment & infrastructure
+- 🏗️ Took the product from **planning → system design → implementation → execution**, while leading the engineering team
+- 🏪 Built a **single shared storefront service for all stores/tenants** with tenant-aware rendering instead of separate storefront deployments
+- 🧩 Designed a **component registry + theme system** so merchants can customize storefront sections, layouts, design tokens, and fonts
+- 🔐 Built multi-tenant authentication, store switching, JWT/RBAC, subscription plans, feature limits, and quotas
+- 📦 Built the commerce backend around **NestJS, Prisma, PostgreSQL, Redis, and BullMQ**
+- 🇧🇩 Implemented Bangladesh-wide shipping geography covering **64 districts and 571 upazilas/thanas**
+- ☁️ Owned deployment, infrastructure, domain/SSL workflows, and production engineering
 
 `Next.js` `React` `TypeScript` `Vite` `RTK Query` `NestJS` `Prisma` `PostgreSQL` `Redis` `BullMQ` `Docker`
 
 ### 02 · qCommerz
 **Multi-tenant eCommerce SaaS**
 
-A commerce platform built around the operational needs of Bangladeshi merchants — storefronts, administration, orders, products, inventory, analytics, courier/payment integrations, fraud prevention, and merchant workflows.
-
-The current admin/dashboard codebase uses **Next.js 15, TypeScript, Redux Toolkit, TanStack Table/Virtual, React Hook Form, Zod, Tailwind CSS, Radix UI, ApexCharts, Recharts, Framer Motion**, and more.
+- 🛍️ Built merchant storefronts, admin/dashboard workflows, product and inventory management
+- 🚚 Integrated Bangladesh-focused courier and payment workflows
+- 🛡️ Built fraud-prevention and incomplete-order recovery workflows
+- 📊 Built analytics, order management, employee management, and operational tooling
+- ⚛️ Developed the modern admin experience with Next.js, TypeScript, Redux Toolkit, Tailwind, Radix UI, charts, and data-heavy interfaces
 
 `Next.js` `TypeScript` `Redux Toolkit` `RTK Query` `Tailwind` `Radix UI`
 
 ### 03 · ShikkhaNir
 **Education platform · Web + Mobile**
 
-A full education product spanning mobile, backend, and admin/web applications.
-
-The React Native application uses **Expo 56, React Native 0.85, Redux Toolkit, Redux Persist, NativeWind, Reanimated, MMKV, Expo Router, notifications, Google Sign-In, and React Native Paper**.
+- 📱 Built the mobile application with **React Native + Expo**
+- 🎓 Worked across the education product, including learning content and student-facing workflows
+- 🔄 Implemented state management and persistence with Redux Toolkit + Redux Persist
+- ⚡ Used NativeWind, Reanimated, MMKV, Expo Router, notifications, and Google Sign-In
+- 🧑‍💻 Worked across mobile, backend, and admin/web codebases
 
 `React Native` `Expo` `Redux Toolkit` `NativeWind` `MMKV`
 
 ### 04 · DevPilot
 **Developer tooling for multi-service workspaces**
 
-A CLI I built to remove repetitive local-development orchestration from multi-service projects. It detects common workspace structures and package managers, manages services, profiles, logs, hooks, and dependency-aware startup workflows.
-
-Current package: **@cbhasib/devpilot 0.7.12**.
+- 🧰 Built a CLI that turns multi-service local development into a simple project-level command
+- 🔎 Automatically detects common workspace structures, package managers, and frameworks
+- 🚀 Supports service startup, profiles, hooks, dependency ordering, logs, status, restart, and cleanup
+- 📦 Published as `@cbhasib/devpilot` and actively developed as an independent developer tool
 
 `Node.js` `TypeScript` `CLI` `Workspace tooling`
 
