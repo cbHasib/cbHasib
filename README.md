@@ -97,7 +97,7 @@ I'm a **Senior Full Stack Developer based in Bangladesh**. I like owning problem
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 
-### Mobile / Product integrations
+### Product & integrations
 
 ![Google Sign-In](https://img.shields.io/badge/Google_Sign--In-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
@@ -113,20 +113,22 @@ I'm a **Senior Full Stack Developer based in Bangladesh**. I like owning problem
 ### 01 · Salaf EMS
 **My most significant engineering work to date.**
 
-A multi-tenant **eCommerce Management System** that I have been taking from planning and system design through implementation and execution while managing the engineering team.
+A multi-tenant **eCommerce Management System** that I have taken from planning and system design through implementation and execution while managing the engineering team.
 
-The current services workspace combines a **React 19 + Vite + RTK Query frontend** with a **NestJS + Prisma + PostgreSQL + Redis backend**. The platform includes multi-tenant authentication and store switching, JWT/RBAC, subscription plans and quotas, async processing with BullMQ, and Bangladesh-wide shipping geography covering 64 districts and 571 upazilas/thanas. fileciteturn19file0L2-L10
+The platform is built around three major pieces: an **EMS/admin application**, a **NestJS backend**, and a **single shared storefront service that serves all stores/tenants**. The storefront is a tenant-aware Next.js application rather than a separate deployment per merchant, with a code-first component registry for reusable sections and themes. Merchants can customize storefront presentation through registered components, design tokens, fonts, sections, and theme configuration.
+
+The backend includes **multi-tenant authentication and store switching, JWT/RBAC, subscription plans and quotas, PostgreSQL via Prisma, Redis, BullMQ async processing, and Bangladesh-wide shipping geography**. The storefront itself uses **Next.js 16, React 19, TypeScript, Tailwind CSS, Zod, and server-oriented rendering patterns**.
 
 **My role:** Product planning · System architecture · Technical decisions · Development · Code review · Team execution · Deployment & infrastructure
 
-`React` `Vite` `RTK Query` `NestJS` `Prisma` `PostgreSQL` `Redis` `BullMQ` `Docker`
+`Next.js` `React` `TypeScript` `Vite` `RTK Query` `NestJS` `Prisma` `PostgreSQL` `Redis` `BullMQ` `Docker`
 
 ### 02 · qCommerz
 **Multi-tenant eCommerce SaaS**
 
 A commerce platform built around the operational needs of Bangladeshi merchants — storefronts, administration, orders, products, inventory, analytics, courier/payment integrations, fraud prevention, and merchant workflows.
 
-The current admin/dashboard codebase uses **Next.js 15, TypeScript, Redux Toolkit, TanStack Table/Virtual, React Hook Form, Zod, Tailwind CSS, Radix UI, ApexCharts, Recharts, Framer Motion**, and more. fileciteturn10file0L2-L6
+The current admin/dashboard codebase uses **Next.js 15, TypeScript, Redux Toolkit, TanStack Table/Virtual, React Hook Form, Zod, Tailwind CSS, Radix UI, ApexCharts, Recharts, Framer Motion**, and more.
 
 `Next.js` `TypeScript` `Redux Toolkit` `RTK Query` `Tailwind` `Radix UI`
 
@@ -135,16 +137,16 @@ The current admin/dashboard codebase uses **Next.js 15, TypeScript, Redux Toolki
 
 A full education product spanning mobile, backend, and admin/web applications.
 
-The React Native application is built with **Expo 56, React Native 0.85, Redux Toolkit, Redux Persist, NativeWind, Reanimated, MMKV, notifications, Google Sign-In, Expo Router, and React Native Paper**. fileciteturn11file0L2-L6
+The React Native application uses **Expo 56, React Native 0.85, Redux Toolkit, Redux Persist, NativeWind, Reanimated, MMKV, Expo Router, notifications, Google Sign-In, and React Native Paper**.
 
 `React Native` `Expo` `Redux Toolkit` `NativeWind` `MMKV`
 
 ### 04 · DevPilot
 **Developer tooling for multi-service workspaces**
 
-A CLI I built to remove repetitive local-development orchestration from multi-service projects. It detects common workspace structures and package managers, manages services, profiles, logs, hooks, and dependency-aware startup workflows. fileciteturn24file0L2-L6
+A CLI I built to remove repetitive local-development orchestration from multi-service projects. It detects common workspace structures and package managers, manages services, profiles, logs, hooks, and dependency-aware startup workflows.
 
-Current package: **@cbhasib/devpilot 0.7.12**. fileciteturn13file0L2-L6
+Current package: **@cbhasib/devpilot 0.7.12**.
 
 `Node.js` `TypeScript` `CLI` `Workspace tooling`
 
