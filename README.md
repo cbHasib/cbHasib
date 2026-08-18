@@ -4,9 +4,9 @@
 
 # Hi, I'm Hasib 👋
 
-### Senior Full Stack Developer from Bangladesh
+### Senior Full Stack Developer · Product Engineer
 
-I build **SaaS products, eCommerce platforms, fintech systems, AI-powered products, and mobile applications** — from architecture to production.
+I design, build, deploy, and maintain production systems — with a strong focus on **backend architecture, multi-tenant platforms, eCommerce, web/mobile applications, and developer tooling**.
 
 <p>
 <a href="https://www.linkedin.com/in/cbHasib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,17 +20,19 @@ I build **SaaS products, eCommerce platforms, fintech systems, AI-powered produc
 
 ## 👨‍💻 About me
 
-I'm a **Senior Full Stack Developer** who enjoys owning the complete engineering lifecycle — understanding the problem, designing the system, building the product, deploying it, and improving it in production.
+I'm a **Senior Full Stack Developer based in Bangladesh**. I like owning problems end-to-end — from understanding the product and designing the architecture to implementation, deployment, production support, and iteration.
 
-- 🏗️ Strong focus on **backend architecture, APIs, and multi-tenant systems**
-- ⚛️ Build modern **web applications and eCommerce storefronts**
-- 📱 Build cross-platform **mobile apps with React Native / Expo**
-- ☁️ Work with **AWS, Cloudflare, Docker, CI/CD, and deployment infrastructure**
-- 🔌 Build third-party **API, payment, courier, social, and business integrations**
-- 🤖 Build products that use **AI and LLM-powered workflows**
-- 👥 Lead and mentor engineers while working across planning → execution
+- 🏗️ Backend architecture, API design & **multi-tenant systems**
+- ⚛️ Web applications, admin platforms & eCommerce storefronts
+- 📱 Cross-platform mobile applications with **React Native / Expo**
+- 🗄️ Relational + NoSQL data modelling, caching & async processing
+- ☁️ Cloud infrastructure, Docker, CI/CD & deployment automation
+- 🔌 Payment, courier, social and third-party API integrations
+- 👥 Planning work and leading a small engineering team from **planning → execution**
 
-## 🧰 My stack
+---
+
+## 🧰 Tech stack
 
 ### Languages
 
@@ -38,6 +40,7 @@ I'm a **Senior Full Stack Developer** who enjoys owning the complete engineering
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ### Frontend & Mobile
 
@@ -49,26 +52,31 @@ I'm a **Senior Full Stack Developer** who enjoys owning the complete engineering
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Redux Persist](https://img.shields.io/badge/Redux_Persist-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Headless UI](https://img.shields.io/badge/Headless_UI-66E3C4?style=flat-square&logo=headlessui&logoColor=111827)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-41B883?style=flat-square&logo=angular&logoColor=white)
+![Headless UI](https://img.shields.io/badge/Headless_UI-66E3C4?style=flat-square&logo=headlessui&logoColor=111827)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
 ![Webhooks](https://img.shields.io/badge/Webhooks-7C3AED?style=flat-square)
+![BullMQ](https://img.shields.io/badge/BullMQ-EF4444?style=flat-square)
 
-### Database & Storage
+### Databases & Storage
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
@@ -85,89 +93,99 @@ I'm a **Senior Full Stack Developer** who enjoys owning the complete engineering
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=111827)
 ![Dokploy](https://img.shields.io/badge/Dokploy-111827?style=flat-square)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikmesh&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 
-### Product & integrations
+### Mobile / Product integrations
 
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Google Sign-In](https://img.shields.io/badge/Google_Sign--In-4285F4?style=flat-square&logo=google&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta_Graph_API-1877F2?style=flat-square&logo=meta&logoColor=white)
-![Privy](https://img.shields.io/badge/Privy-000000?style=flat-square)
-![Sumsub](https://img.shields.io/badge/Sumsub-111827?style=flat-square)
 ![Trello](https://img.shields.io/badge/Trello-0C66E4?style=flat-square&logo=trello&logoColor=white)
 
-**Bangladesh-focused integrations:** Pathao · Steadfast · RedX · Paperfly · CarryBee · SSLCommerz · bKash
+**Bangladesh commerce integrations:** Pathao · Steadfast · RedX · Paperfly · CarryBee · SSLCommerz · bKash
 
 ---
 
-## 🚀 Selected work
+## 🚀 Featured work
 
-### Salaf EMS
-**Multi-tenant eCommerce platform**
+### 01 · Salaf EMS
+**My most significant engineering work to date.**
 
-Tenant-aware storefronts, customizable themes, integration architecture, custom domains, automatic SSL provisioning, and deployment infrastructure.
+A multi-tenant **eCommerce Management System** that I have been taking from planning and system design through implementation and execution while managing the engineering team.
 
-`Next.js` `Node.js` `MongoDB` `Cloudflare` `Docker`
+The current services workspace combines a **React 19 + Vite + RTK Query frontend** with a **NestJS + Prisma + PostgreSQL + Redis backend**. The platform includes multi-tenant authentication and store switching, JWT/RBAC, subscription plans and quotas, async processing with BullMQ, and Bangladesh-wide shipping geography covering 64 districts and 571 upazilas/thanas. fileciteturn19file0L2-L10
 
-### qCommerz
-**eCommerce SaaS for Bangladeshi merchants**
+**My role:** Product planning · System architecture · Technical decisions · Development · Code review · Team execution · Deployment & infrastructure
 
-Storefronts, order management, courier integrations, fraud prevention, incomplete-order recovery, analytics, employee management, and live order workflows.
+`React` `Vite` `RTK Query` `NestJS` `Prisma` `PostgreSQL` `Redis` `BullMQ` `Docker`
 
-`Next.js` `Express` `MongoDB` `Redis`
+### 02 · qCommerz
+**Multi-tenant eCommerce SaaS**
 
-### DevPilot
-**CLI for multi-service development workspaces**
+A commerce platform built around the operational needs of Bangladeshi merchants — storefronts, administration, orders, products, inventory, analytics, courier/payment integrations, fraud prevention, and merchant workflows.
 
-Standardizes `install`, `dev`, `build`, `lint`, `clean`, `doctor`, and `update` workflows across projects and package managers.
+The current admin/dashboard codebase uses **Next.js 15, TypeScript, Redux Toolkit, TanStack Table/Virtual, React Hook Form, Zod, Tailwind CSS, Radix UI, ApexCharts, Recharts, Framer Motion**, and more. fileciteturn10file0L2-L6
 
-`Node.js` `TypeScript` `CLI`
+`Next.js` `TypeScript` `Redux Toolkit` `RTK Query` `Tailwind` `Radix UI`
 
-→ [View repository](https://github.com/cbHasib/devpilot)
+### 03 · ShikkhaNir
+**Education platform · Web + Mobile**
 
-### eFraudChecker
-**Fraud prevention for eCommerce sellers**
+A full education product spanning mobile, backend, and admin/web applications.
 
-A Bangladesh-focused fraud detection product designed around local eCommerce order and customer-risk signals.
+The React Native application is built with **Expo 56, React Native 0.85, Redux Toolkit, Redux Persist, NativeWind, Reanimated, MMKV, notifications, Google Sign-In, Expo Router, and React Native Paper**. fileciteturn11file0L2-L6
 
-`React` `Node.js` `Express` `MongoDB`
+`React Native` `Expo` `Redux Toolkit` `NativeWind` `MMKV`
 
----
+### 04 · DevPilot
+**Developer tooling for multi-service workspaces**
 
-## 🧠 What I care about
+A CLI I built to remove repetitive local-development orchestration from multi-service projects. It detects common workspace structures and package managers, manages services, profiles, logs, hooks, and dependency-aware startup workflows. fileciteturn24file0L2-L6
 
-```text
-Good architecture > clever code
-Simple systems > unnecessary complexity
-Production reliability > “works on my machine”
-Real problems > generic products
-Automation > repetitive work
-```
+Current package: **@cbhasib/devpilot 0.7.12**. fileciteturn13file0L2-L6
 
-I particularly enjoy working on **multi-tenant architecture, realtime systems, backend performance, integrations, deployment automation, and developer tooling**.
+`Node.js` `TypeScript` `CLI` `Workspace tooling`
+
+→ [View DevPilot](https://github.com/cbHasib/devpilot)
 
 ---
 
-## 📈 GitHub
+## 🧠 Engineering interests
+
+**Architecture** · Multi-tenancy · Backend systems · Realtime applications · API design · Caching · Async processing · Cloud infrastructure · CI/CD · Developer tooling · Product engineering
+
+---
+
+## 💼 Current role
+
+**Senior Full Stack Developer — Nukta Solutions** 🇧🇩
+
+Working across product planning, system architecture, development, deployment, and team execution.
+
+Previously **Lead Developer — EWS Automation LLC** 🇺🇸
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cbHasib&show_icons=true&hide_border=true&theme=transparent" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbHasib&layout=compact&hide_border=true&theme=transparent" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=cbhasib&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cbHasib&hide_border=true&theme=transparent" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbHasib&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=cbHasib&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=cbHasib&label=Visitors+Count&color=brightgreen" />
 </p>
 
 ---
 
 <div align="center">
 
-**Build. Ship. Learn. Repeat.**
+**Build useful things. Build them properly.**
 
 </div>
